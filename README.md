@@ -10,6 +10,7 @@ It contains examples for:
 - Automatic Locale Detection
 - Setting the `react-intl` library
 - Language switcher
+- Setting text direction (`ltr`, `rtl`)
 - Declarative usage of the `react-intl` library
 - Imperative usage of the `react-intl` library
 
